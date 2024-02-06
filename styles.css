@@ -65,7 +65,7 @@ ul {
 .nav-toggler {
   height: 34px;
   width: 44px;
-  background-color: #ffffff;
+  background-color: black;
   border-radius: 4px;
   cursor: pointer;
   display: none;
@@ -159,4 +159,5 @@ ul {
   min-height: 100vh;
   width: 819px;
   background-image: url(/HTML-CSS-Assignment/pexels-robin-stickel-70497.jpg);
+  background-repeat: no-repeat;
 }
