@@ -31,7 +31,6 @@ ul {
 .justify-content-between {
   justify-content: space-between;
 }
-/*header*/
 .header {
   background-color: var(--color-1);
   padding: 12px 0;
@@ -149,12 +148,6 @@ ul {
   .flexbox-item-1 {
 	min-height: 100vh;
 	width: 700px;
-	/* background: rgb(241, 216, 132);
-	background: linear-gradient(
-	  126deg,
-	  rgba(241, 216, 132, 1) 1%,
-	  rgba(235, 140, 176, 1) 100%
-	); */
 	text-align: justify;
 	display: flex;
 	flex-direction: column;
